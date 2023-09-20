@@ -1,4 +1,5 @@
-# Check out my more active profile [NangiDev@GitHub](https://github.com/NangiDev)
+### Check out my more active profile 
+# [NangiDev@GitHub](https://github.com/NangiDev)
 
 - 👋 Hi, I’m Joel
 - 👀 I’m interested in tech, mostly game development
